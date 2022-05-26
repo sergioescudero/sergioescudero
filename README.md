@@ -3,9 +3,6 @@
 I am Sergio Escudero. 
 
 - Currently I am a Scala/Python Software Developer at [Qvantel.com](https://www.qvantel.com/).
-- Senior [Python](https://www.python.org/) developer.
-- Senior [Scala](https://www.scala-lang.org) developer.
-- Senior [Java](https://www.java.com/es/) developer.
 - Learning [Go](https://go.dev/).
 
 More info in [my Linkedin profile](https://www.linkedin.com/in/sergioescudero/)
