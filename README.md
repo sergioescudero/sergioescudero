@@ -1,7 +1,5 @@
 ### Hello!
 
-I am Sergio Escudero. 
-
 - Currently I am a Scala/Python Software Developer at [Qvantel.com](https://www.qvantel.com/).
 - Learning [Go](https://go.dev/).
 
