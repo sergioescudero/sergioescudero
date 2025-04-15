@@ -1,7 +1,6 @@
 ### Hello!
 
 - Currently I am a Scala/Python Software Developer at [Qvantel.com](https://www.qvantel.com/).
-- Learning [Go](https://go.dev/).
 
 More info in [my Linkedin profile](https://www.linkedin.com/in/sergioescudero/)
 
